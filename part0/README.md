@@ -1,0 +1,1 @@
+This part contains solutions to part0 of FullStack Open 2023
